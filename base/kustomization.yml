@@ -1,0 +1,11 @@
+resources:
+- adminrole.yml
+- clusterrole.yml
+- clusterrolebinding.yml
+- controllerrolebinding.yml
+- deployment.yml
+- proxierrole.yml
+- proxierrolebinding.yml
+- sealedsecretscrd.yml
+- service.yml
+- serviceaccount.yml

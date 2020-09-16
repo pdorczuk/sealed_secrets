@@ -1,0 +1,5 @@
+commonLabels:
+  app: sealedsecrets
+  team: ops
+bases:
+- ./base
